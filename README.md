@@ -14,19 +14,19 @@ Primeiro fiz a lógica da minha aplicação, separando as ações que deveriam s
 
 ## ⚙️ Como rodar a automação localmente? 
 
-Clone o projeto
+**Clone o projeto**
 
 ```bash
   git clone https://github.com/n33miaz/Cadastro-de-Produtos
 ```
 
-Entre no diretório do projeto
+**Entre no diretório do projeto**
 
 ```bash
   cd Cadastro-de-Produtos
 ```
 
-Instale as dependências
+**Instale as dependências**
 
 Windows: https://www.python.org/downloads/
 
@@ -35,4 +35,10 @@ Linux:
   sudo apt-get install python3.9
 ```
 
-Após isso é só executar com o auxílio da sua IDE.
+**Após isso é só executar com o auxílio da sua IDE**
+
+## 📷 Prints do site da automação: 
+
+<img align="center" height="325" src="./assets/img-1.jpeg"> 
+<img align="center" height="325" src="./assets/img-2.jpeg">
+<img align="center" height="325" src="./assets/img-3.jpeg">
